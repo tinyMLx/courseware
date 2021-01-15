@@ -1,4 +1,4 @@
-#TinyML Open-Courseware
+# TinyML Open-Courseware
 
 **This repository is currently under construction! Please check back for updates.**
 
