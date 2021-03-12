@@ -1,12 +1,14 @@
 # TinyML Open-Courseware
 
-**This repository is currently under construction! Please check back for updates.**
+In this repository you will find TinyML course syllabi, assignments/labs, code walkthroughs, links to student projects, and lecture videos (where applicable). All course materials are licensed under the GNU GPLv2 license.
 
-In this repository you will find syllabi, assignments/labs, code walkthroughs, and links to student projects and lecture videos where applicable.
+**We hope to continuously update this repository. If you create a TinyML course please consider sharing your materials with us!**
 
-**We hope to continuously update this repository. If you create a tinyML course please consider sharing your materials with us!**
+## Courses
 
-== License ==
+1. [**TinyML edX Specialization**](/edX)
+
+## License
 
 Copyright (c) 2021 TinyMLx. All rights reserved.
 
