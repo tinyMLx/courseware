@@ -1,4 +1,4 @@
-# TinyML Open-Courseware
+# TinyML Courseware
 
 In this repository you will find TinyML course syllabi, assignments/labs, code walkthroughs, links to student projects, and lecture videos (where applicable). All course materials are licensed under the GNU GPLv2 license.
 
