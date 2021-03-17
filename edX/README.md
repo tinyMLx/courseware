@@ -2,18 +2,45 @@
 
 In this exciting Professional Certificate program offered by Harvard University and Google TensorFlow, you will learn about the emerging field of Tiny Machine Learning (TinyML), its real-world applications, and the future possibilities of this transformative technology.
 
-TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software.
+TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance-constrained and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software.
 
-The program will emphasize hands-on experience with training and deploying machine learning into tiny embedded devices. This series of courses features projects based on a TinyML Program Kit that includes an Arduino board with onboard sensors and an ARM Cortex-M4 microcontroller. To ensure you hit the road running, the kit also comes equipped with a camera. The TinyML Program Kit has everything you need to unlock your imagination and build applications around image recognition, audio processing, and gesture detection. Before you know it, you’ll be implementing an entire tiny machine learning application.
+The program will emphasize hands-on experience with training and deploying machine learning onto tiny embedded devices. This series of courses features projects based on a TinyML Program Kit that includes an Arduino board with onboard sensors and an ARM Cortex-M4 microcontroller. To ensure you hit the road running, the kit also comes equipped with a camera. The TinyML Program Kit has everything you need to unlock your imagination and build applications around image recognition, audio processing, and gesture detection. Before you know it, you’ll be implementing an entire tiny machine learning application.
 
 This first-of-its-kind program combines computer science with engineering to feature real-world application case studies that examine the challenges facing TinyML deployments.
 
 This program is a collaboration between expert faculty at Harvard’s John A. Paulson School of Engineering and Applied Sciences (SEAS) and innovative members of Google’s TensorFlow team.
 
 TinyML on edX is designed in four chapters across 3 courses as described below. [[Specialization Link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
-+ Course 1: Fundamentals of TinyML (Chapters 1 & 2): Focusing on the basics of machine learning and embedded systems, such as smartphones, this course will introduce you to the “language” of TinyML.
-+ Course 2: Applications of TinyML (Chapter 3): Get the opportunity to see TinyML in practice. You will see examples of TinyML applications, and learn first-hand how to train these models for tiny applications such as keyword spotting, visual wake words, and gesture recognition.
-+ Course 3: Deploying TinyML (Chapter 4): Learn to program in TensorFlow Lite for microcontrollers so that you can write the code, and deploy your model to your very own tiny microcontroller. Before you know it, you’ll be implementing an entire TinyML application.
++ **Course 1: Fundamentals of TinyML** ([Chapter 1](#chapter-1:-welcome-to-tinyml) & [Chapter 2](#chapter-2-introduction-to-tiny-ml)): Focusing on the basics of machine learning and embedded systems, such as smartphones, this course will introduce you to the “language” of TinyML.
++ **Course 2: Applications of TinyML** ([Chapter 3](chapter-3-applications-of-tinyml)): Get the opportunity to see TinyML in practice. You will see examples of TinyML applications, and learn first-hand how to train these models for tiny applications such as keyword spotting, visual wake words, and gesture recognition.
++ **Course 3: Deploying TinyML** ([Chapter 4](#chapter-4-deploying-tinyml)): Learn to program in TensorFlow Lite for microcontrollers so that you can write the code, and deploy your model to your very own tiny microcontroller. Before you know it, you’ll be implementing an entire TinyML application.
+
+## The TinyMLx Team:
+### Course Instructors
++ [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi)
++ [Laurence Maroney](http://www.laurencemoroney.com/)
++ [Pete Warden](https://petewarden.com/)
+
+### Guest Instructor
++ [Susan Kennedy](https://www.susan-kennedy.com/)
+
+### Staff Lead
++ [Brian Plancher](https://brianplancher.com/)
+
+### Staff
+
++ [Colby Banbury](https://www.linkedin.com/in/colby-banbury-267956135)
++ [Benjamin Brown](https://github.com/brownby)
++ [Dhilan Ramaprasad](https://hces.seas.harvard.edu/people/dhilan-ramaprasad)
++ [J. Evan Smith](https://github.com/jesmith-all)
++ [Matthew Stewart](http://mpstewart.net/)
+
+### Contributors
++ [Sharad Chitlangia](https://www.sharadchitlang.ai/)
++ [Radhika Ghosal](https://www.kharghoshal.xyz/)
++ [Srivatsan Krishnan](https://www.linkedin.com/in/srivatsan-krishnan-2a683849)
++ [Mark Mazumder](https://markmaz.com/)
+
 
 ## Chapter 1: Welcome to TinyML
 The goal of this chapter is to introduce the students to the core concepts, challenges, and opportunites of TinyML. It will also give an overview of the entire specialization; how the courses are structured and what to expect as a student steping through the curriculum.
