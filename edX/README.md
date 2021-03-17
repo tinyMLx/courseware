@@ -11,7 +11,7 @@ This first-of-its-kind program combines computer science with engineering to fea
 This program is a collaboration between expert faculty at Harvard’s John A. Paulson School of Engineering and Applied Sciences (SEAS) and innovative members of Google’s TensorFlow team.
 
 TinyML on edX is designed in four chapters across 3 courses as described below. [[Specialization Link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
-+ **Course 1: Fundamentals of TinyML** ([Chapter 1](#chapter-1:-welcome-to-tinyml) & [Chapter 2](#chapter-2-introduction-to-tiny-ml)): Focusing on the basics of machine learning and embedded systems, such as smartphones, this course will introduce you to the “language” of TinyML.
++ **Course 1: Fundamentals of TinyML** ([Chapter 1](#chapter-1-welcome-to-tinyml) & [Chapter 2](#chapter-2-introduction-to-tiny-ml)): Focusing on the basics of machine learning and embedded systems, such as smartphones, this course will introduce you to the “language” of TinyML.
 + **Course 2: Applications of TinyML** ([Chapter 3](chapter-3-applications-of-tinyml)): Get the opportunity to see TinyML in practice. You will see examples of TinyML applications, and learn first-hand how to train these models for tiny applications such as keyword spotting, visual wake words, and gesture recognition.
 + **Course 3: Deploying TinyML** ([Chapter 4](#chapter-4-deploying-tinyml)): Learn to program in TensorFlow Lite for microcontrollers so that you can write the code, and deploy your model to your very own tiny microcontroller. Before you know it, you’ll be implementing an entire TinyML application.
 
