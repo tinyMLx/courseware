@@ -419,7 +419,7 @@ The goal of this chapter is to teach learners how to engineer end-to-end tinyML 
 5. Forum Your Data Collection Plan
 
 #### Part II: Custom Dataset Lab
-6. Building a Custom Dataset [[Doc]](readings/4-6-6.pdf)
+6. Building a Custom Dataset [[Doc]](readings/4-6-6.pdf) **Our url has updated to tinyml.seas.harvard.edu**
 7. Forum: Building a Custom Dataset Questions
 8. Train and Deploy Your Custom Dataset KWS Model [[Doc]](readings/4-6-8.pdf)
 9. Forum: Train and Deploy Your Custom Dataset KWS Model Questions
@@ -458,7 +458,7 @@ The goal of this chapter is to teach learners how to engineer end-to-end tinyML 
 #### Part II: Magic Wand Lab
 8. Deploying the Magic Wand [[Doc]](readings/4-8-8.pdf)
 9. Forum: Deploying the Magic Wand Questions
-10. Collecting Data for Your Custom Magic Wand Project [[Doc]](readings/4-8-10.pdf)
+10. Collecting Data for Your Custom Magic Wand Project [[Doc]](readings/4-8-10.pdf) **Our url has updated to tinyml.seas.harvard.edu**
 11. Forum: Collecting Data for Your Custom Magic Wand Project Questions
 12. Training and Deploying Your Custom Magic Wand Project [[Doc]](readings/4-8-12.pdf)
 13. Forum: Training and Deploying Your Custom Magic Wand Project Questions
