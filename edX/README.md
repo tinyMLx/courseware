@@ -222,7 +222,7 @@ The goal of this chapter is to focus on applications, data and neural networks o
 ### Chapter 3.5: Keyword Spotting
 1. Introduction to Keyword Spotting (KWS) [[Slides]](slides/3-5-1.pdf)
 2. Forum: How (else) would you use KWS?
-3. Keyword Spotting Challenges/Constraints [[Slides]](slides/3-5-1.pdf)
+3. Keyword Spotting Challenges/Constraints [[Slides]](slides/3-5-3.pdf)
 4. Formative Quiz
 5. Keyword Spotting Application Architecture Overview [[Doc]](readings/3-5-5.pdf)
 6. Keyword Spotting Datasets [[Slides]](slides/3-5-6.pdf)
