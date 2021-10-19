@@ -300,7 +300,7 @@ The goal of this chapter is to focus on applications, data and neural networks o
 15. Formative Quiz
 16. Assignment: Training an Anomaly Detection Model [[Colab Link]](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-8-16-Assignment.ipynb)
 17. Assignment Solution [[Doc]](other/3-8-16.pdf)
-17. Section Summary [[Doc]](readings/3-8-17.pdf)
+18. Section Summary [[Doc]](readings/3-8-18.pdf)
 19. Summative Test
 
 ### Chapter 3.9: Responsible AI Development
