@@ -20,6 +20,7 @@ TinyML on edX is designed in four chapters across 3 courses as described below. 
 + [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi)
 + [Laurence Maroney](http://www.laurencemoroney.com/)
 + [Pete Warden](https://petewarden.com/)
++ [Lara Suzuki](https://larissasuzuki.com/)
 
 ### Guest Instructor
 + [Susan Kennedy](https://www.susan-kennedy.com/)
@@ -39,6 +40,7 @@ TinyML on edX is designed in four chapters across 3 courses as described below. 
 + [Sharad Chitlangia](https://www.sharadchitlang.ai/)
 + [Radhika Ghosal](https://www.kharghoshal.xyz/)
 + [Srivatsan Krishnan](https://www.linkedin.com/in/srivatsan-krishnan-2a683849)
++ [Maximilian Lam](https://agnusmaximus.github.io/)
 + [Mark Mazumder](https://markmaz.com/)
 
 
@@ -487,3 +489,62 @@ The goal of this chapter is to teach learners how to engineer end-to-end tinyML 
 
 ### Chapter 4.11: Appendix
 1. [Appendix Link](https://github.com/tinyMLx/appendix)
+
+## Chapter 5: MLOps for Scaling TinyML
+This course introduces learners to Machine Learning Operations (MLOps) through the lens of TinyML (Tiny Machine Learning). Learners explore best practices to deploy, monitor, and maintain (tiny) Machine Learning models in production at scale.
+
+### Chapter 5.1: Welcome to MLOps for Scaling TinyML
+1. What to Expect in This Course [[Doc]](readings/5-1-1.pdf)
+2. Welcome Message [[Slides]](slides/5-1-2.pdf)
+3. Who Should Take This Course? [[Doc]](readings/5-1-3.pdf)
+4. The Past, Present and Future of ML [[Slides]](slides/5-1-4.pdf)
+5. Why the Future of ML is Tiny and Bright [[Doc]](readings/5-1-5.pdf)
+6. Machine Learning Lifecycle [[Slides]](slides/5-1-6.pdf)
+7. Review of Course 1, 2 & 3 [[Doc]](readings/5-1-7.pdf)
+8. Formative Quiz
+9. Scaling TinyML [[Slides]](slides/5-1-9.pdf)
+10. Introduction to MLOps [[Slides]](slides/5-1-10.pdf)
+11. Overview of MLOps [[Doc]](readings/5-1-11.pdf)
+12. Course Structure [[Slides]](slides/5-1-12.pdf)
+13. Course Activities [[Doc]](readings/5-1-13.pdf)
+14. Your Mindset: T-Shaped Skills Needed for ML Engineers [[Slides]](slides/5-1-14.pdf)
+15. Summary of What You’ll Learn [[Doc]](5-1-15/TODO.pdf)
+16. Formative Quiz
+17. Forum: Introduce Yourself
+18. Student background quiz
+19. Who’s Who in MLOps for TinyML? [[Doc]](readings/5-1-19.pdf)
+
+### Chapter 5.2: MLOps: The Big Picture
+1. Overview of MLOps Objectives [[Doc]](readings/5-2-1.pdf)
+2. What is MLOps, DevOps, and AI Ops [[Slides]](slides/5-2-2.pdf)
+3. Formative Quiz
+4. MLOps: A Use Case Overview [[Slides]](slides/5-2-4.pdf)
+5. MLOps Persona [[Doc]](readings/5-2-5.pdf)
+6. MLOps: Key activities and Lifecycle [[Slides]](slides/5-2-6.pdf)
+7. Forum: How can you apply MLOps thinking to your future projects?
+8. Formative Quiz
+9. Summative Test
+
+### Chapter 5.3: ML Development
+1. Overview of ML Development [[Doc]](readings/5-3-1.pdf)
+2. ML Development [[Slides]](slides/5-3-2.pdf)
+3. Problem Definition [[Slides]](slides/5-3-3.pdf)
+4. Forum: How Might You Define KWS [[Doc]](other/5-3-4.pdf)
+5. Data Selection for KWS [[Slides]](slides/5-3-5.pdf)
+6. Why Real Data Matters [[Doc]](readings/5-3-6.pdf)
+7. Data Exploration [[Slides]](slides/5-3-7.pdf)
+8. Data Visualization Tools [[Doc]](readings/5-3-8.pdf)
+9. Formative Quiz
+10. Feature Engineering [[Slides]](slides/5-3-10.pdf)
+11. Feature Engineering for KWS: A Case Study [[Doc]](readings/5-3-11.pdf)
+12. Model Prototyping [[Slides]](slides/5-3-12.pdf)
+13. Model Prototyping: Research vs. Production [[Doc]](readings/5-3-13.pdf)
+14. Formative Quiz
+15. Model Validation [[Slides]](slides/5-3-15.pdf)
+16. Model Evaluation [[Slides]](slides/5-3-16.pdf)
+17. Formative Quiz
+18. Data Engineering [[Slides]](slides/5-3-18.pdf)
+19. ML Development Impact on MLOps [[Slides]](slides/5-3-19.pdf)
+20. Summative Test
+
+### Chapters 5.4-5.12 Coming Soon!
