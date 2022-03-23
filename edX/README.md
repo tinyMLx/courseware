@@ -224,7 +224,7 @@ The goal of this chapter is to focus on applications, data and neural networks o
 ### Chapter 3.5: Keyword Spotting
 1. Introduction to Keyword Spotting (KWS) [[Slides]](slides/3-5-1.pdf)
 2. Forum: How (else) would you use KWS?
-3. Keyword Spotting Challenges/Constraints [[Slides]](slides/3-5-1.pdf)
+3. Keyword Spotting Challenges/Constraints [[Slides]](slides/3-5-3.pdf)
 4. Formative Quiz
 5. Keyword Spotting Application Architecture Overview [[Doc]](readings/3-5-5.pdf)
 6. Keyword Spotting Datasets [[Slides]](slides/3-5-6.pdf)
@@ -302,7 +302,7 @@ The goal of this chapter is to focus on applications, data and neural networks o
 15. Formative Quiz
 16. Assignment: Training an Anomaly Detection Model [[Colab Link]](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-8-16-Assignment.ipynb)
 17. Assignment Solution [[Doc]](other/3-8-16.pdf)
-17. Section Summary [[Doc]](readings/3-8-17.pdf)
+18. Section Summary [[Doc]](readings/3-8-18.pdf)
 19. Summative Test
 
 ### Chapter 3.9: Responsible AI Development
