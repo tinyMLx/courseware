@@ -547,4 +547,106 @@ This course introduces learners to Machine Learning Operations (MLOps) through t
 19. ML Development Impact on MLOps [[Slides]](slides/5-3-19.pdf)
 20. Summative Test
 
-### Chapters 5.4-5.12 Coming Soon!
+### Chapter 5.4: Training Operationalization
+1. Overview of Training Operationalization [[Doc]](readings/5-4-1.pdf)
+2. Training Operationalization [[Slides]](slides/5-4-2.pdf)
+3. CI/CD Triggers [[Slides]](slides/5-4-3.pdf)
+4. Formative Quiz
+5. Forum: Software Artifacts [[Doc]](other/5-4-5.pdf)
+6. Continuous Integration [[Slides]](slides/5-4-6.pdf)
+7. CI Tools [[Doc]](readings/5-4-7.pdf)
+8. Continuous Delivery [[Slides]](slides/5-4-6.pdf)
+9. Formative Quiz
+10. Production Deployment [[Slides]](slides/5-4-10.pdf)
+11. Online Experimentation [[Slides]](slides/5-4-11.pdf)
+12. Production Deployment in ML Deployment [[Doc]](readings/5-4-12.pdf)
+13. Forum: Case Study Discussion [[Doc]](other/5-4-13.pdf)
+14. Training Operationalization Impact on MLOps [[Slides]](slides/5-4-14.pdf)
+15. Formative Quiz
+16. Summative Test
+
+### Chapter 5.5: Continuous Training
+1. Overview of Continuous Training [[Doc]](readings/5-5-1.pdf)
+2. Continuous Training [[Slides]](slides/5-5-2.pdf)
+3. Retraining Triggers [[Slides]](slides/5-5-3.pdf)
+4. Formative Quiz
+5. Data Processing Overview [[Slides]](slides/5-5-5.pdf)
+6. Data Engineering for Everyone [[Doc]](readings/5-5-6.pdf)
+7. Formative Quiz
+8. Data Ingestion [[Slides]](slides/5-5-8.pdf)
+9. Data Validation [[Slides]](slides/5-5-9.pdf)
+10. Data Transformation [[Slides]](slides/5-5-10.pdf)
+11. Formative Quiz
+12. Training vs. Tuning  [[Doc]](readings/5-5-12.pdf)
+13. Training with AutoML [[Slides]](slides/5-5-13.pdf)
+14. Neural Architecture Search (NAS) - Part 1 [[Slides]](slides/5-5-14.pdf)
+15. Formative Quiz
+16. Neural Architecture Search (NAS) - Part 2 [[Slides]](slides/5-5-16.pdf)
+17. The Carbon Price of AutoML: CO2 [[Doc]](readings/5-5-17.pdf)
+18. Continuous Training with Transfer Learning [[Slides]](slides/5-5-18.pdf)
+19. Pros and Cons of Transfer Learning [[Doc]](readings/5-5-19.pdf)
+20. Formative Quiz
+21. Continuous Training Metrics [[Slides]](slides/5-5-21.pdf)
+22. Forum: Metrics for Continuous Training [[Doc]](other/5-5-22.pdf)
+23. Continuous Training Impact on MLOps [[Slides]](slides/5-5-23.pdf)
+24. Optional: Multilingual Spoken Words Colab [[Colab link]](https://colab.research.google.com/github/harvard-edge/multilingual_kws/blob/main/multilingual_kws_intro_tutorial.ipynb)
+25. Summative Test
+
+### Chapter 5.6: Model Conversion
+1. Overview of Model Conversion [[Doc]](readings/5-6-1.pdf)
+2. Model Conversion [[Slides]](slides/5-6-X.pdf)
+3. ML Frameworks & The Lay of the Land [[Slides]](slides/5-6-3.pdf)
+4. TF vs. TFLite vs. TFLite Micro [[Slides]](slides/5-6-4.pdf)
+5. TFLite Micro for TinyML [[Doc]](readings/5-6-5.pdf)
+6. Formative Quiz
+7. Model Pruning [[Slides]](slides/5-6-7.pdf)
+8. Model Clustering [[Slides]](slides/5-6-8.pdf)
+9. Formative Quiz
+10. Model Quantization [[Slides]](slides/5-6-10.pdf)
+11. Collaborative Optimizations [[Doc]](readings/5-6-11.pdf)
+12. Student Teacher Networks / Knowledge Distillation [[Slides]](slides/5-6-12.pdf)
+13. Model Conversion Impact on MLOps [[Slides]](slides/5-6-13.pdf) 
+14. Forum: Model Conversion Case Study - Smart DoorBell [[Doc]](other/5-6-14.pdf)
+15. Formative Quiz
+16. Summative Test
+
+### Chapter 5.7: Model Deployment
+1. Overview of Model Deployment [[Doc]](readings/5-7-1.pdf)
+2. Model Deployment [[Slides]](slides/5-7-2.pdf)
+3. Scaling ML into Production Deployment [[Slides]](slides/5-7-3.pdf)
+4. Formative Quiz
+5. Containers for Scaling ML Deployment [[Slides]](slides/5-7-5.pdf)
+6. Dockers vs. VMs [[Doc]](readings/5-7-6.pdf)
+7. Formative Quiz
+8. Challenges for Scaling TinyML Deployment (Part 1) [[Slides]](slides/5-7-8.pdf)
+9. Challenges for Scaling TinyML Deployment (Part 2) [[Slides]](slides/5-7-9.pdf)
+10. Forum:  Challenges of Scaling TinyML Deployment [[Doc]](other/5-7-10.pdf)
+11. Anything As A Service [[Doc]](readings/5-7-11.pdf)
+12. TinyMLaaS (Part 1): An Introduction [[Slides]](slides/5-7-12.pdf)
+13. TinyMLaaS (Part 2): Design Overview [[Slides]](slides/5-7-13.pdf)
+14. Summary of TinyMLaaS [[Doc]](readings/5-7-14.pdf)
+15. Formative Quiz
+16. Model Deployment Impact on MLOps [[Slides]](slides/5-7-16.pdf)
+17. Forum: Driving Mode Detection Case Study [[Doc]](other/5-7-17.pdf)
+18. Summative Test
+
+### Chapter 5.8: Prediction Serving
+1. Overview of Prediction Serving [[Doc]](readings/5-8-1.pdf)
+2. Prediction Serving [[Slides]](slides/5-8-2.pdf)
+3. Prediction Serving Scenarios [[Doc]](readings/5-8-3.pdf)
+4. Prediction Serving Scenarios: Batch [[Slides]](slides/5-8-4.pdf)
+5. Prediction Serving Scenarios: Online [[Slides]](slides/5-8-5.pdf)
+6. Formative Quiz
+7. Prediction Serving Scenarios: Streaming [[Slides]](slides/5-8-7.pdf)
+8. Prediction Serving Scenarios: Embedded [[Slides]](slides/5-8-8.pdf)
+9. Formative Quiz
+10. Prediction Serving Architectures [[Slides]](slides/5-8-10.pdf)
+11. Formative Quiz
+12. Embedded Inference Serving Benchmarks [[Slides]](slides/5-8-12.pdf)
+13. Embedded Benchmarks: An Overview [[Doc]](readings/5-8-13.pdf)
+14. MLPerf Tiny [[Doc]](readings/5-8-14.pdf)
+15. Formative Quiz
+16. Prediction Serving Impact on MLOps [[Slides]](slides/5-8-16.pdf)
+17. Summative Test
+
+### Chapters 5.9-5.12 Coming Soon!
