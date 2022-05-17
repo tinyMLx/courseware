@@ -649,4 +649,47 @@ This course introduces learners to Machine Learning Operations (MLOps) through t
 16. Prediction Serving Impact on MLOps [[Slides]](slides/5-8-16.pdf)
 17. Summative Test
 
-### Chapters 5.9-5.12 Coming Soon!
+### Chapter 5.9: Continuous Monitoring
+1. Overview of Continuous Monitoring [[Doc]](readings/5-9-1.pdf)
+2. Continuous Monitoring [[Slides]](slides/5-9-2.pdf)
+3. Model Drift: The Big Picture [[Slides]](slides/5-9-3.pdf)
+4. Concept Drift [[Slides]](slides/5-9-4.pdf)
+5. Data Drift [[Slides]](slides/5-9-5.pdf)
+6. Formative Quiz
+7. Forum: Have you seen data or concept drift in the real world?
+8. Dealing With Drift [[Slides]](slides/5-9-8.pdf)
+9. Continuous Evaluation Challenges for TinyML [[Slides]](slides/5-9-9.pdf)
+10. TinyML Communication Challenges & Technologies for Continuous Monitoring [[Doc]](readings/5-9-10.pdf)
+11. Formative Quiz
+12. On-device Training: Limitations and Opportunities [[Doc]](readings/5-9-12.pdf)
+13. Continuous Monitoring with Federated ML [[Slides]](slides/5-9-13.pdf)
+14. Federated Learning Gboard [[Doc]](readings/5-9-14.pdf)
+15. Formative Quiz
+16. Continuous Monitoring Impact on MLOps [[Slides]](slides/5-9-16.pdf)
+17. Forum: The Privacy vs Performance Trade Off [[Doc]](other/5-9-17.pdf)
+18. Optional: Federated Learning Colab [[Colab link]](https://colab.research.google.com/github/tinyMLx/colabs/blob/course4/5_9_9_FederatedLearning.ipynb)
+19. Summative Test
+
+### Chapter 5.10: Data & Model Management
+1. Model vs. Data Management [[Doc]](readings/5-10-1.pdf)
+2. Data and Model Management [[Slides]](slides/5-10-2.pdf)
+3. Formative Quiz
+
+### Chapter 5.11: Responsible AI: Transparency & Sustainability
+1. Responsible AI Overview [[Doc]](readings/5-11-1.pdf)
+2. Sustainability of TinyML [[Slides]](slides/5-11-2.pdf)
+3. Sustainable AI [[Doc]](readings/5-11-3.pdf)
+4. Formative Quiz
+5. Model Cards for Transparency [[Slides]](slides/5-11-5.pdf)
+6. Formative Quiz
+7. TinyML for Social Impact [[Slides]](slides/5-11-7.pdf)
+8. Summative Test
+
+### Chapter 5.12: Summary
+1. Course Summary [[Doc]](readings/5-12-1.pdf)
+2. Key Concepts of MLOps [[Slides]](slides/5-12-2.pdf)
+3. What’s Next? [[Slides]](slides/5-12-3.pdf)
+4. Forum: what are you excited about doing and learning next?
+5. Closing Remarks
+6. Formative Quiz
+7. Outgoing Survey of the Course and Topics
